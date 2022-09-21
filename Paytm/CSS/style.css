@@ -48,9 +48,8 @@ a {
 .text {
   text-align: center;
   background-color: whitesmoke;
-  padding: 15px;
-  font-size: 15px;
-  font-weight: 800;
+  padding: 5px;
+  margin: 0%;
 }
 .store-icon-btn {
   border-radius: 50px;
@@ -123,4 +122,19 @@ a {
 .container-3 {
   padding: 20px;
   background-color: #002e6e;
+}
+.mid-txt{
+  font-size: 13px;
+}
+.container-4{
+
+}
+.sub-container-4{
+
+}
+.img-container-4{
+
+}
+.imgs-4{
+  
 }
